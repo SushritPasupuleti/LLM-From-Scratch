@@ -20,3 +20,5 @@ venv_activate:
 nix-shell:
 	nix-shell ./shell.nix
 
+notebook:
+	jupyter notebook
